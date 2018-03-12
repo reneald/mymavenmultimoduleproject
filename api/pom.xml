@@ -19,7 +19,6 @@
         <dependency>
             <groupId>be.reneald.multimodule</groupId>
             <artifactId>domain-module</artifactId>
-            <version>1.0</version>
         </dependency>
     </dependencies>
 

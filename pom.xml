@@ -22,6 +22,11 @@
                 <artifactId>guava</artifactId>
                 <version>24.0-jre</version>
             </dependency>
+            <dependency>
+                <groupId>be.reneald.multimodule</groupId>
+                <artifactId>domain-module</artifactId>
+                <version>${project.version}</version>
+            </dependency>
 
         </dependencies>
     </dependencyManagement>
